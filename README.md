@@ -57,7 +57,7 @@ Autonomer Agent mit **Model Context Protocol (MCP)** und lokalen Ollama-Modellen
 
 `Python` `PostgreSQL` `pgvector` `Ollama` `MCP` 
 
-[Repository ansehen :](https://github.com/dianssow/ai-agent)
+[Repository ansehen ](https://github.com/dianssow/ai-agent)
 
 ###  POS-System (Multi-Tenant)
 Komplettes Kassensystem als Webanwendung zur Verwaltung von Produkten, Kunden, Verkäufen und Lagerbeständen. Umgesetzt in zwei Varianten, teils im Team an der Hochschule.
@@ -68,21 +68,22 @@ Komplettes Kassensystem als Webanwendung zur Verwaltung von Produkten, Kunden, V
 
 `React` `Redux Toolkit` `Node.js` `Express` `Firebase`
 
-[Repository ansehen :](https://github.com/dianssow/Server) 
-(https://github.com/dianssow/POS)
-(https://github.com/dianssow/Backoffice)
+Repository ansehen :
+[Backend](https://github.com/dianssow/Server) 
+[POS-Frontend](https://github.com/dianssow/POS)
+[Backoffice-Frontend](https://github.com/dianssow/Backoffice)
 
 ###  Klausurverwaltung
 Full-Stack-Webanwendung zur Prüfungsverwaltung mit Spring Boot, React und JWT: rollenbasierte Zugriffskontrolle (Spring Security), Prüfungsanmeldung, Notenerfassung, Notenspiegel.
 
 `Spring Boot` `React` `JWT` `Spring Security`
 
-[Repository ansehen →](https://github.com/dianssow/klausurverwaltung)
+[Repository ansehen ](https://github.com/dianssow/klausurverwaltung)
 
 ### Maritime Schiffsdaten (Teamprojekt)
 Webanwendung zur Visualisierung von Echtzeit-Schiffsdaten mit Kartendarstellung (Leaflet), MariaDB, Bash/CGI und gnuplot.
 
-[Repository ansehen :](https://github.com/dianssow/Infrastructure-TeamProject)
+[Repository ansehen ](https://github.com/dianssow/Infrastructure-TeamProject)
 
 ## CI/CD und DevOps
 
